@@ -6,6 +6,7 @@ Typically called information wrangling. The dataset that I will be wrangling (an
 WeRateDogs may be a Twitter account that rates people's mutts with a amusing comment approximately the canine. 
 The page has since developed greatly in popularity , with numerous clients sharing its substance and asking their pooches being appraised aswell.
 These appraisals nearly continuously have a denominator of 10. in spite of the fact that? Nearly continuously more prominent than 10. Since "they're great dogs."
+
 **Note:** I did not use TWITTER API because they Couldn not support me with an access to developer account.
 
 --------------------------------------
